@@ -19,7 +19,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-image: $background-image;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -28,7 +28,19 @@ body {
  */
 
 .presentation {
-    background-color: blue;
+    height: 200px;
+    color: $text-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    
+    .left-info {
+        text-align: right;
+        border-right: 1px solid grey;
+    }
+    
+    .right.info {
+        border-left: 1px solid grey;
+    }
 }
 
 /**

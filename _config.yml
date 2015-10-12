@@ -1,11 +1,9 @@
 # Site settings
-title: izlo
-email: izabellaricko@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Izabella Lönnqvists portfolio, tillhörande kursen Internetpublicering,
   Digital Design HT15.
 baseurl: "/testsida" # the subpath of your site, e.g. /blog/
-url: "http://www.izlonnqvist.se" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: izabellaricko
 github_username:  izlonnqvist
 
