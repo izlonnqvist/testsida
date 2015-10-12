@@ -235,3 +235,13 @@
         }
     }
 }
+
+.archive {
+    ul {
+        list-style: none;
+        
+        li:before {
+            content: "*";
+        }
+    }
+}
