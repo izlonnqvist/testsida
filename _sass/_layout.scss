@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid #086986;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -176,6 +176,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        border-bottom: 2px solid #086986;
     }
 }
 
