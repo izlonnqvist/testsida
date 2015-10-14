@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+
+/* */
 .site-header {
     border-top: 5px solid #086986;
     border-bottom: 1px solid $grey-color-light;
@@ -245,4 +247,10 @@
             content: "*";
         }
     }
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
