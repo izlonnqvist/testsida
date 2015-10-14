@@ -5,20 +5,21 @@ permalink: /studies/
 ---
 
 Jag har bland annat läst:
+
 #### Systemvetenskap A (30 hp)
-Informationssystem och systemutveckling 15 hp
-Objektorienterad programmering 7,5 hp
+Informationssystem och systemutveckling 15 hp<br/>
+Objektorienterad programmering 7,5 hp<br/>
 Databaser 7,5 hp
 
 #### Systemvetenskap B (30 hp)
-Multimedia 7,5 hp
-Informations- och IT-säkerhet 7,5 hp
-Algoritmer och datastrukturer 7,5 hp
+Multimedia 7,5 hp<br/>
+Informations- och IT-säkerhet 7,5 hp<br/>
+Algoritmer och datastrukturer 7,5 hp<br/>
 eTjänster och webbprogrammering 7,5 hp
 
 #### Media- och kommunikationsvetenskap A (30 hp)
-Medier, kommunikation och samhälle 15 hp
-Medieanalys 7,5 hp
+Medier, kommunikation och samhälle 15 hp<br/>
+Medieanalys 7,5 hp<br/>
 Organisation och kommunikation 7,5 hp
 
 #### Feministic technoscience (15 hp)
