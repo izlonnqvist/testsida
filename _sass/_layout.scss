@@ -178,7 +178,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
-        border-bottom: 2px solid #086986;
+        border-bottom: 1px dashed #086986;
     }
 }
 
@@ -254,4 +254,8 @@
 {
     margin: 0 auto;
     display: block;
+}
+
+.about-pic {
+    float: left;
 }

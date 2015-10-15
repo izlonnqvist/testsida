@@ -26,7 +26,6 @@ body {
 /**
  * Top presentation
  */
-
 .presentation {
     height: 200px;
     color: $text-color;
@@ -35,8 +34,9 @@ body {
     
     .left-info {
         text-align: right;
-        border-right: 1px solid grey;
+        border-right: 1px dashed #086986;
         float: left;
+        height: 140px;
     }
     
     .right.info {
