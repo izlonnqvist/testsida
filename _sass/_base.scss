@@ -37,10 +37,18 @@ body {
         border-right: 1px dashed #086986;
         float: left;
         height: 140px;
+        
+        @include media-query($on-palm) {
+                border: 0px;
+                text-align: left;
+                width: 250px;
+            }
     }
     
-    .right.info {
-        border-left: 1px solid grey;
+    .right-info {
+        @include media-query($on-palm) {
+                display: none;
+            }
     }
 }
 
